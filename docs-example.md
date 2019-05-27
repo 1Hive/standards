@@ -1,5 +1,5 @@
 # Docs Template Example: 1Hive Redemptions App 
-- note this is an example, and not the actual docs for the Redmeptions app
+- note: this is an example for the docs template, not the actual docs for the Redmeptions app
 
 <br>
 
