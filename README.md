@@ -1,2 +1,1 @@
-# standards
-Docs and guides explaining the 1Hive docs/guides standards
+This repo will contain standard templates that can serve as a reference point when createing documentation or user guides.
