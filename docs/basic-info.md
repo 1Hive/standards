@@ -1,4 +1,4 @@
-## Basic Info
+# Basic Info
 
 <br>
 
