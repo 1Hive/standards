@@ -1,5 +1,3 @@
-# User Guide
-
 <br>
 
 ### What does the app do?
