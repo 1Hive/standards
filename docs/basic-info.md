@@ -1,5 +1,3 @@
-# Basic Info
-
 <br>
 
 ### Maintainer 🚧
