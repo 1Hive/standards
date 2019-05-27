@@ -3,16 +3,16 @@
 
 ## Basic Info
 
-### Maintainer
+### Maintainer 🚧
 - [1Hive Workers](https://1hive.org/docs/contribute/projects-tasks.html#expectations-of-workers)
 
-### Project Repo
+### Project Repo 🗃️
 - https://github.com/1Hive/redemptions-app
 
-### Security Review Status
+### Security Review Status 🚨
 - The code in this repo has not been audited.
 
-### Availability
+### Availability 🐲
 - public beta: ✔
 - rinkeby: TBD
 - mainnet: TBD
