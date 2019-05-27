@@ -55,10 +55,8 @@ We will use the `dao-address` to run a truffle script to deploy some test tokens
 ### How do you install it in a pre-existing DAO?
 - deployment & installation on an Aragon DAO TBD
 
-<br>
-
-### Technical Guide
-- Breakdown of each function/feature, what it does, and how to use it. 
+### Technical Breakdown 
+- explanation of each function/feature, what it does, and how to use it. 
 
 The Redemptions app is initialized by passing a `Vault _vault`, `TokenManager _tokenManager`, and `address[] _redemptionTokenList`. Users are able to redeem tokens associated to the `_tokenManager` in exchange for a proportional share of each token on the `_redemptionTokenList` held in the `_vault` address.
 
