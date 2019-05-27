@@ -1,6 +1,8 @@
 # Docs Template Example: 1Hive Redemptions App 
 - note this is an example, and not the actual docs for the Redmeptions app
 
+<br>
+
 ## Basic Info
 
 ### Maintainer 🚧
@@ -83,9 +85,10 @@ When a user calls the `redeem(uint256 _amount)` function they must have >= `_amo
 
 ## Notes
 
-### UX
-
 Most documentation is very boring and no one reads it. Anything that would make the docs/guides more interesting is going to be a huge win for us.
 - custom formatting/themes: docs are formatted via the project's Docusaurus CSS/UI
 - pictures/charts (what are some good resources to help people visually explain what their apps do?)
 - live code examples (the Rust ecosystem really benefits from being able to embed live Rust examples in their docs)
+
+<br>
+
