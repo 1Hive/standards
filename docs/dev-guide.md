@@ -1,5 +1,3 @@
-# Dev Guide
-
 <br>
 
 ### How do you run it locally?
