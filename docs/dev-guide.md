@@ -1,5 +1,7 @@
 ## Dev Guide
 
+<br>
+
 ### How do you run it locally?
 
 Run a testing dao with the redemptions app already deployed on your local envrionment:
@@ -19,8 +21,12 @@ We will use the `dao-address` to run a truffle script to deploy some test tokens
 
 `npx truffle exec scripts/deploy-tokens.js <dao-address>`
 
+<br>
+
 ### How do you install it in a pre-existing DAO?
 - deployment & installation on an Aragon DAO TBD
+
+<br>
 
 ### Technical Breakdown 
 - explanation of each function/feature, what it does, and how to use it. 
