@@ -9,4 +9,4 @@ Objective:
 <hr>
 <br>
 
-Right now this is just to test syncing/formatting for the 1Hive DAO Kit. The `docs` folder is an example for the docs template, not the actual docs for the Redmeptions app.
+The `docs` folder is an example of the current (WIP) docs standard.
