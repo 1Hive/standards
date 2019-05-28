@@ -1,4 +1,5 @@
-## Docs Template Outline
+# Brainstorm
+- a high level outline and notes for the 1Hive Docs Template
 
 ### Basic Info Section
 - who the maintainer is (person or team)
