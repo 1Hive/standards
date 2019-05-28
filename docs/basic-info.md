@@ -1,23 +1,23 @@
 <br>
 
 ### Maintainer 🚧
-- [1Hive Workers](https://1hive.org/docs/contribute/projects-tasks.html#expectations-of-workers)
+- who is currently working on this and/or who do you reach out to if there's a bug? 
 
 <br>
 
 ### Project Repo 🗃️
-- https://github.com/1Hive/redemptions-app
+- where's the code being worked on?
 
 <br>
 
 ### Security Review Status 🚨
-- The code in this repo has not been audited.
+- Has this app been audited?
 
 <br>
 
 ### Availability 🐲
-- public beta: ✔
-- rinkeby: TBD
-- mainnet: TBD
+- DIY public beta: ?
+- rinkeby: ?
+- mainnet: ?
 
 <br>
