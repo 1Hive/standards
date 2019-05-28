@@ -6,8 +6,24 @@
 
 <br>
 
-### Status
+### Maintainer 🚧
+- who is currently working on this and/or who do you reach out to if there's a bug? 
 
-Is it a WIP, public beta, or shipped application?
+<br>
+
+### Project Repo 🗃️
+- where's the code being worked on?
+
+<br>
+
+### Security Review Status 🚨
+- Has this app been audited?
+
+<br>
+
+### Availability 🐲
+- DIY public beta: ?
+- rinkeby: ?
+- mainnet: ?
 
 <br>
