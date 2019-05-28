@@ -1,8 +1,7 @@
 <br>
 
-### What is INSERT_YOUR_APP_NAME_HERE?
-
-1 paragraph explanation of the app/thing
+### What is YOUR_APP_NAME?
+- 1 paragraph explanation of the app/thing
 
 <br>
 
